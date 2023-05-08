@@ -1,0 +1,4 @@
+WARNING:
+   > The reflective boundary conditions around the sphere in the cartesian
+     code does NOT work! Density and momentum leaks into the sphere in a 
+     rather weird way. please fix!
